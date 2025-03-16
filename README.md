@@ -1,9 +1,9 @@
 # ¡Hola! Soy DanielDev 👋  
 
 ## 🚀 Sobre Mí
-Soy un apasionado **Desarrollador Flutter** con experiencia en **UI y Clean Architecture**. Actualmente, participo en proyectos colaborativos de mi universidad, donde aplico mis conocimientos en desarrollo móvil multiplataforma con **Dart y Flutter**.  
+Soy un apasionado **Desarrollador Flutter** con experiencia en **UI y Clean Architecture**. Actualmente, estoy **cursando Ingeniería de Software** y un **tecnólogo en Análisis y Desarrollo de Software**, lo que me ha permitido fortalecer mis conocimientos en desarrollo de aplicaciones móviles y arquitectura de software.  
 
-También tengo habilidades en **Java, JavaScript, Python y C**, así como experiencia en **Firebase y SQL**.  
+Participo en proyectos colaborativos de mi universidad, donde aplico mis conocimientos en **Flutter y Dart**. También tengo habilidades en **Java, JavaScript, Python y C**, así como experiencia en **Firebase y SQL**.  
 Me encanta escribir **código limpio, estructurado y escalable**. Manejo **Scrum** como metodología ágil y siempre busco mejorar mis habilidades técnicas y profesionales.  
 
 ---
@@ -28,8 +28,16 @@ Me encanta escribir **código limpio, estructurado y escalable**. Manejo **Scrum
 
 ---
 
-## 📚 Nivel de Inglés  
-![B2](https://img.shields.io/badge/Inglés-B2-007396?style=for-the-badge&logo=language&logoColor=white)  
+## 📚 Formación Académica 🎓  
+🎓 **Ingeniería de Software** (En curso)  
+🎓 **Tecnólogo en Análisis y Desarrollo de Software** (En curso)  
+
+---
+
+## 🌎 Idiomas  
+- ![Español](https://img.shields.io/badge/Español-Nativo-FFD700?style=for-the-badge)  
+- ![Inglés B2](https://img.shields.io/badge/Inglés-B2-007396?style=for-the-badge&logo=language&logoColor=white)  
+
 ✅ Cómodo en entornos internacionales 🌍  
 
 ---
@@ -43,12 +51,13 @@ Me encanta escribir **código limpio, estructurado y escalable**. Manejo **Scrum
 
 ## 📬 Contacto  
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dpachecop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pacheco-74a764325)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daniel_pxchper_)
-[![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dpachper@gmail.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dpachecop) **GitHub**: [Dpachecop](https://github.com/Dpachecop)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pacheco-74a764325) **LinkedIn**: [Daniel Pacheco](https://www.linkedin.com/in/daniel-pacheco-74a764325)  
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daniel_pxchper_) **Instagram**: [@daniel_pxchper_](https://instagram.com/daniel_pxchper_)  
+- [![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dpachper@gmail.com) **Correo**: [Dpachper@gmail.com](mailto:Dpachper@gmail.com)  
 
 ---
 
 ✨ ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o proyecto en mente. 🚀  
+
 
