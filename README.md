@@ -53,7 +53,7 @@ Me encanta escribir **código limpio, estructurado y escalable**. Manejo **Scrum
 
 ## 📬 Contacto  
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dpachecop) **GitHub**: [Dpachecop](https://github.com/Dpachecop)  
+
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielpachecodev/) : [Daniel Pacheco](https://www.linkedin.com/in/danielpachecodev/)  
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daniel_pxchper/_) : [@daniel_pxchper_](https://instagram.com/daniel_pxchper/_)  
 - [![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dpachper@gmail.com) **Correo**: [Dpachper@gmail.com](mailto:Dpachper@gmail.com)  
